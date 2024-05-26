@@ -1,2 +1,2 @@
-# software-list
-A repository of software that I use myself. Description, links and explanations for each user to understand.
+# Software List
+![Preview](./anm5207.jpg)
